@@ -19,3 +19,7 @@ The project is based on the YOLOV7 algorithm.
 ![image0(12)](https://user-images.githubusercontent.com/80198620/213879977-2992e3d1-aa27-4d21-9b76-319207ae9bd1.jpg)
 
 ![image0(13)](https://user-images.githubusercontent.com/80198620/213879985-459b4cca-8d1b-4fb6-8baa-b22876864ad8.jpg)
+
+# Instructions
+
+The notebook is abstracted because we can not share the dataset without permission of smarthon so we just upload the model that we built and it is ready to load and use.
